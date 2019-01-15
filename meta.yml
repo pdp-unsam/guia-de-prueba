@@ -3,8 +3,9 @@ name: Guía de Prueba
 locale: es
 type: practice
 beta: false
-teacher_info: 
+teacher_info: ''
 language: haskell
 id_format: "%05d"
 order:
 - 1
+private: false
